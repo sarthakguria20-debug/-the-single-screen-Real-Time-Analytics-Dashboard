@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Traffic Dashboard",
+  "description": "A high-performance stream processing dashboard showing real-time event ingestion and analytics with an O(1) sliding window circular buffer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
